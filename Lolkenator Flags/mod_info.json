@@ -1,0 +1,8 @@
+{
+	"id":"lolkenator_flags", # internal id
+	"name":"Lolkenator Flags", # displayed to the player
+    "author": "Lolkenator3k & Player",
+	"version":"1.01",
+	"description":"Just a bunch of random weird flags that I begged Lolkenator for.",
+	"gameVersion":"0.98",
+}
